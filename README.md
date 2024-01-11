@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on Karpazir Medical Accessories
 - 👋 Hi, I’m @HamedKhanmohammadi
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning Advanced Kubernetes
 - 💞️ I’m looking to collaborate on Infrastructure, Cloud, DevOps
 - 💬 Ask me about Terraform, Linux, Bash, VMware, Hardware, CI/CD, Git, Kubernetes, Docker, Ansible
