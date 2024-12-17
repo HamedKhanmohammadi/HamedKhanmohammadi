@@ -4,7 +4,7 @@
 - 👋 Hi, I’m @HamedKhanmohammadi
 - 🌱 I’m currently learning Advanced Kubernetes
 - 💞️ I’m looking to collaborate on Infrastructure, Cloud, DevOps
-- 💬 Ask me about Terraform, Linux, Bash, VMware, Hardware, CI/CD, Git, Kubernetes, Docker, Ansible
+- 💬 Ask me about Linux, Bash, CI/CD, Git, jenkins, Docker, Kubernetes, Ansible, Terraform, OpenStack, AWS, Azure, VMware
 - 📫 How to reach me hamedmn9@gmail.com
 
 
